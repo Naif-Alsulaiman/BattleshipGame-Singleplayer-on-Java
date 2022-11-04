@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BattleshipGame
+comment1.params=prompt
+comment1.target=int\ promptForInt(java.lang.String)
+comment1.text=\r\n\ Prompts\ a\ user\ for\ a\ positive\ int\ value\ and\ returns\ it.\r\n\ \r\n\ @param\ prompt\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ desired\ prompt\ message\ to\ be\ displayed\ on\ screen\r\n
+comment2.params=river\ showShip
+comment2.target=void\ displayRiver(int[],\ boolean)
+comment2.text=\r\n\ Displays\ a\ nice\ picture\ of\ the\ river\ in\ the\ Console\ View\r\n\ \r\n\ @param\ river\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ array\ that\ represents\ the\ river\r\n\ @param\ showShip\r\n\ \ \ \ \ \ \ \ \ \ \ \ indicates\ if\ you\ wish\ to\ display\ the\ location\ of\ the\ ship\r\n
+comment3.params=arg
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ main\ method\ will\ use\ two\ other\ methods,\ will\ prompt\ the\ user\ to\ input\ the\ length\ of\ the\ river\ in\ the\ game,\r\n\ and\ game\ illustration\ starts.\r\n\ \r\n\ @Naif\ Alsulaiman\ (21230176)\r\n\ \ \ \ \ \ \ \ \ \ \ \r\n\ @Assignment2\ (03/11/2022)\r\n
+numComments=4
